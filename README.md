@@ -7,7 +7,7 @@ In essence, the project aimed to offer a holistic view of the musical landscape,
 Spotify’s Pulse: A General Overview of Music Trends
 ![image](https://github.com/Moksha3Shah/Exploring-Musical-Trends-Spotify-Dataset-Analysis-using-Tableau/assets/58504326/9d474640-8b2a-4649-82c9-67eea8400709)
 
-Song Spotlight: Deep Dive into Musical Details with Interactive Analysis:
+Song Spotlight: Deep Dive into Musical Details with Interactive Analysis
 ![image](https://github.com/Moksha3Shah/Exploring-Musical-Trends-Spotify-Dataset-Analysis-using-Tableau/assets/58504326/dd797cb4-ba21-470f-aa31-e73a51416400)
 
 
